@@ -157,7 +157,7 @@ label{
     body{
         background-image: url(./images/bg-main-mobile.png);
         background-repeat: no-repeat;
-        background-size:auto;
+        background-size:500px auto;
         overflow-x: hidden;
     }
     .card-form{
@@ -171,10 +171,10 @@ label{
         background-image: url("./images/bg-card-front.png");
         background-repeat: no-repeat;
         background-size:cover;
-        height:9em;
-        width:18em;
+        height:10em;
+        width:21em;
         position:relative;
-        top:10.5em;
+        top:11em;
         left:2%;
         padding:25px;
         color: #fff;
@@ -183,10 +183,10 @@ label{
         background-image: url("./images/bg-card-back.png");
         background-repeat: no-repeat;
         background-size:cover;
-        height:9em;
-        width:18em;
+        height:10em;
+        width:21em;
         position:relative;
-        top:-9em;
+        top:-10em;
         left:7%;
         padding:23px;
         z-index: -1;
@@ -227,7 +227,7 @@ label{
         display:none;
     }
     .cvc-display{
-        margin:3.7em 0 0 15em;
+        margin:4.5em 0 0 15em;
         color:#fff;
     }
     .completed{
