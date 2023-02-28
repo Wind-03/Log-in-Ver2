@@ -170,7 +170,7 @@ label{
     #card-one{
         background-image: url("./images/bg-card-front.png");
         background-repeat: no-repeat;
-        background-size:cover;
+        background-size:90% 90%;
         height:10em;
         width:21em;
         position:relative;
@@ -182,7 +182,7 @@ label{
     .card-back{
         background-image: url("./images/bg-card-back.png");
         background-repeat: no-repeat;
-        background-size:cover;
+        background-size:90% 90%;
         height:10em;
         width:21em;
         position:relative;
